@@ -17,13 +17,15 @@ public class Test {
         ~A= 1100 0011
         A | B = 0011 1101
         A ^ B = 0011 0001*/
-       /* System.out.println( Planet.MERCURY.equals(Planet.MERCURY) );//true
+/*
+        System.out.println( Planet.MERCURY.equals(Planet.MERCURY) );//true
         System.out.println( Planet.MERCURY==Planet.MERCURY );//true
         System.out.println( Planet.MERCURY==Planet.VENUS );//false*
+*/
 
     }
         /*enum Planet {
             MERCURY, VENUS, EARTH
         }*/
-    }
+
 }
