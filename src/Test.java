@@ -22,6 +22,16 @@ public class Test {
         System.out.println( Planet.MERCURY==Planet.MERCURY );//true
         System.out.println( Planet.MERCURY==Planet.VENUS );//false*
 */
+/* //ASCII Table
+        System.out.println("A:"+(int)'A'); // or +(+'A') 65
+        System.out.println("Z:"+(+'Z'));//90
+        System.out.println("a:"+(+'a'));//97
+        System.out.println("z:"+(+'z'));//122
+        System.out.println("char(95):"+(char)95);//122
+        System.out.println('Z'-'A');
+        System.out.println('a'-'Z');
+        System.out.println('z'-'A');
+*/
 
     }
         /*enum Planet {
