@@ -1,9 +1,14 @@
+import java.util.ArrayList;
+
 public class Test {
     public static void main(String[] args) {
         /*TEST of Java！！！*/
 
-        System.out.println("hello"+ System.getProperty("line.separator")+"hello"); //get line separator
-        System.out.println("\\\n\\"); // "\\" = log \
+        ArrayList l = new ArrayList(2);
+        l.add(1);
+        l.add(1);
+        l.add(1);
+        System.out.println(l.size()); // 3
 
     }
 }
